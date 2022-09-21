@@ -1,1 +1,1 @@
-# web-development-source
+# web-development-course
