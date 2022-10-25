@@ -1,1 +1,2 @@
-# web-development-course-start
+# web-development-course
+Let's do it!
