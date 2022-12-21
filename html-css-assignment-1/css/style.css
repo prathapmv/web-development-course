@@ -2,7 +2,7 @@ h1 {
 	text-align: center;
 }
 
-#div-box-1{
+#div-box-1 {
 	border: 3px solid black;
 	width: 30%;
 	background-color: darkgray;
@@ -11,7 +11,7 @@ h1 {
 	margin: 10px;
 }
 
-#div-box-2{
+#div-box-2 {
 	border: 3px solid black;
 	width: 30%;
 	background-color: darkgray;
@@ -20,7 +20,7 @@ h1 {
 	margin: 10px;
 }
 
-#div-box-3{
+#div-box-3 {
 	border: 3px solid black;
 	width: 30%;
 	background-color: darkgray;
@@ -29,7 +29,7 @@ h1 {
 	margin: 10px;
 }
 
-#article-box{
+#article-box {
 	float: right;
 	border: 3px solid black;
 	padding: 0px 0px 0px 5px;
@@ -37,37 +37,43 @@ h1 {
 }
 
 @media (min-width: 992px) {
-	#div-box-1{
+	#div-box-1 {
 		width: 33.33%;
 	}
-	#div-box-2{
+
+	#div-box-2 {
 		width: 33.33%;
 	}
-	#div-box-3{
+
+	#div-box-3 {
 		width: 33.33%;
 	}
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-	#div-box-1{
+	#div-box-1 {
 		width: 50%;
 	}
-	#div-box-2{
+
+	#div-box-2 {
 		width: 50%;
 	}
-	#div-box-3{
+
+	#div-box-3 {
 		width: 100%;
 	}
 }
 
 @media (max-width: 767px) {
-	#div-box-1{
+	#div-box-1 {
 		width: 100%;
 	}
-	#div-box-2{
+
+	#div-box-2 {
 		width: 100%;
 	}
-	#div-box-3{
+
+	#div-box-3 {
 		width: 100%;
 	}
 }
