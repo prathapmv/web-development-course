@@ -1,1 +1,1 @@
-console.log("my first script")
+let x = 10;
